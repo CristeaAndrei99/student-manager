@@ -1,4 +1,4 @@
-package loose.oose.fis.lab.student.nabager.model;
+package loose.oose.fis.lab.student.manager.model;
 
 import java.util.Objects;
 
